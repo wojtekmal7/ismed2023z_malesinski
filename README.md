@@ -29,7 +29,7 @@ Example (in JSON array of strings format):
   "99658704392 Eustachy Nowak 34 4444 566556",
   "44556600449 Piotr Glowacki 23123 2323 2323"
 ]
-
+```
 How to Use
 Run the main.py script.
 
