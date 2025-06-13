@@ -30,7 +30,7 @@ Example (in JSON array of strings format):
   "44556600449 Piotr Glowacki 23123 2323 2323"
 ]
 ```
-How to Use
+## How to Use
 Run the main.py script.
 
 Follow the on-screen menu options:
@@ -49,10 +49,10 @@ Follow the on-screen menu options:
 
 7 - Exit
 
-Requirements
+## Requirements
 This project requires Python 3.x. No external libraries are needed — everything runs with the standard library.
 
-Notes
+## Notes
 PESEL must contain exactly 11 digits.
 
 Data validation is included for numeric fields.
@@ -61,5 +61,5 @@ Test files must be correctly formatted, otherwise an error message will be shown
 
 All PESELs and names are fictional. No real patient data is included due to privacy concerns.
 
-License
+## License
 This project is intended for educational and demonstration purposes.
